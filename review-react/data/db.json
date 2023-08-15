@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "My web page",
+        "body": "hello others ...",
+        "author": "mario",
+        "id": 1
+      },
+      {
+        "title": "wolcome world",
+        "body": "hello others ...",
+        "author": "luigi",
+        "id": 2
+      }
+    ]
+  }
